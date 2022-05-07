@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Analog Circuit Design and Verification
+title: ML
 
 # Username (this should match the folder name)
 authors:
-- Analog Circuit Design and Verification
+- ML
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former research area
+role: Research area
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 900
@@ -22,8 +22,6 @@ weight: 900
 projects:
 #- SBKS
 #- FLUENT
-
-research_area: true
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,10 +55,12 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Research Areas
-- Analog Verification Area
+#- Asynchronous Verification Area
 
 #any user groups to display on the page
 display_groups:
-- Analog Verification
+- Asynchronous Verification
+
+research_area: true
 ---
-Supported by the National Science Foundation (NSF grant #CCR9971168), Professor Myers and his colleagues demonstrated the viability of analog architectures for MAP decoders. This project led to the design of the first successful analog MAP decoder using strictly CMOS design. The fabricated chip was tested at bit rates of 1 Mb/s to 10 Mb/s with a typical power consumption of only 16uW.  Under NSF CCF award 1117515, Professor Myers in collaboration with Professor Peng Li of Texas A&M integrated research in the area of analog circuit verification with analog testing, and applying this work to the challenges of modern analog circuit designs that include extensive digital components. During this project, we continued to develop our LEMA verification tool including improvements to our model generation tool, a new verification property language for analog/mixed-signal circuits, and new verification methods.  This work built upon past projects supported by the Semiconductor Research Corporation and additional support from Intel Corporation.
+To be updated...

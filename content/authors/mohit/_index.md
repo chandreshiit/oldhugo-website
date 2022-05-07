@@ -21,7 +21,7 @@ role: MS Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Utah
+- name: IIT Indore
   url: ""
 
 #Utah or CU
@@ -33,8 +33,8 @@ university: IIT Indore
 interests:
 - NLP, AI
 
-projects:
-- <a href="/author/ibiosim/">iBioSim</a>
+#projects:
+#- <a href="/author/ibiosim/">iBioSim</a>
 
 
 department:
@@ -84,13 +84,13 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Alumni
-- Undergraduate Alumni
+- Graduate Students
+
 
 #any user groups to display on the page
-display_groups:
-- iBioSim Tool
-- Genetic Design Automation Area
+#display_groups:
+#- iBioSim Tool
+#- Genetic Design Automation Area
 ---
 
 Tyler has loved creating software since he was 13 years old. He helped Chris with visualization code in iBioSim. After graduation he founded Ever Accountable, a company that creates software to help people avoid and overcome pornography. He now leads a team of people at Ever Accountable who push the boundaries of technology and psychology to make pornography avoidance and recovery as easy as possible.

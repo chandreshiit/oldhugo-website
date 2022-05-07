@@ -1,20 +1,20 @@
 ---
 # Display name
-title: FLUENT Verification Project
+title: Medical Report Translation
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
 weight: 1000
 
 # Username (this should match the folder name)
 authors:
-- FLUENT
+- mrt
 
 # Is this the primary user of the site?
 superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: Genetic Design Automation
+- name: ""
   url: ""
 #- name: Formal Verification of Cyber-Physical Systems
 #  url: ""
@@ -37,12 +37,12 @@ department:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 
-- icon: github
-  icon_pack: fab
-  link: https://github.com/fluentverification
-- icon: file-alt
-  icon_pack: fas
-  link: https://fluentverification.github.io/
+#- icon: github
+#  icon_pack: fab
+ # link: https://github.com/fluentverification
+# - icon: file-alt
+ # icon_pack: fas
+ # link: https://fluentverification.github.io/
 
 
 
@@ -62,4 +62,4 @@ user_groups:
 - FLUENT Project
 ---
 
-This research aims at advancing probabilistic verification techniques for the rigorous design of dependable systems in synthetic biology and nanotechnology. Major goals of the project include the following. First, scale up stochastic model checking with efficient and accurate state space truncation techniques. Secondly, investigate practical stochastic counterexample generation techniques and utilize them to improve the accuracy of the state reductions. Thirdly, derive automated guidance mechanisms learned from stochastic counterexamples to improve the quality and efficiency of rare-event stochastic simulations. Lastly, integrate our proposed framework within existing state-of-the-art stochastic model checking tools, PRISM and STORM; and evaluate the proposed methodology on a wide range of case studies derived from synthetic biology and nanotechnology applications. The combination of these methods into this new methodology is being explored for the first time. Altogether, this research will improve the accuracy of analysis of infinite state stochastic systems with rare-event properties.
+In this project, we are working towards model for automatically translating medical reports in low-resource languages.

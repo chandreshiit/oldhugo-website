@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Asynchronous Circuit Design and Verification
+title: NLP
 
 # Username (this should match the folder name)
 authors:
-- Asynchronous Circuit Design and Verification
+- NLP
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former research area
+role: Research area
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 900
@@ -55,12 +55,12 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Research Areas
-- Asynchronous Verification Area
+#- Cyberphysical Area
 
 #any user groups to display on the page
 display_groups:
-- Asynchronous Verification
+- Cyberphysical
 
 research_area: true
 ---
-Supported by grants from the National Science Foundation (NSF CAREER award MIP-9625014), Intel Corporation, the Semiconductor Research Corporation (SRC), and the State of Utah, Professor Myers and his graduate students developed the ATACS tool for the synthesis and verification of timed asynchronous circuits. ATACS was utilized during the Intel RAPPID project which resulted in a prototype VLSI chip that was 3 times faster while using only half the power of the comparable synchronous design. NSF Japan Program award INT-0087281 helped foster a collaboration between the PI and Professor Tomohiro Yoneda of the National Institute of Informatics in Tokyo which has resulted in over 30 publications to date.
+To be updated...

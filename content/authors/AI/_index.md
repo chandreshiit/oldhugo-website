@@ -1,16 +1,15 @@
 ---
 # Display name
-title: Formal Verification of Cyberphysical Systems
-
+title: AI
 # Username (this should match the folder name)
 authors:
-- Formal Verification of Cyberphysical Systems
+- AI
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former research area
+role: Research area
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 900
@@ -22,6 +21,8 @@ weight: 900
 projects:
 #- SBKS
 #- FLUENT
+
+research_area: true
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,12 +56,10 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Research Areas
-- Cyberphysical Area
+#- Analog Verification Area
 
 #any user groups to display on the page
 display_groups:
-- Cyberphysical
-
-research_area: true
+- Analog Verification
 ---
-Supported by the National Science Foundation (NSF CNS award 0930225), Professor Myers in collaboration with Professor Hao Zheng of the University of South Florida extended verification methods developed for asynchronous and analog circuits to support the verification of Cyber-Physical Systems (CPS). This project developed a number of techniques for improving verification efficiency of such systems. As part of an internship with Wendelin Serwe at Inria, a student on this project, Zhen Zhang, verified a fault-tolerant NoC routing algorithm using the CADP tools. This routing algorithm was developed in collaboration with Professor Tomohiro Yoneda from the National Institute of Informatics.
+Artificial Intelligence (AI) has revolutionised the every strata of life-- be it daily shopping recommendation, flight booking offers, self-driving cars, robotic surgery, predicting cancerous tissue, to name a few. In a broader sense, AI is a way to design machines capable of doing things the way a human does. Within the realm of AI,  our goal is to build efficient models and algorithms for solving complic

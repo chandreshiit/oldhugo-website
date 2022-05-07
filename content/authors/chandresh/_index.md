@@ -40,10 +40,6 @@ interests:
 - Machine Learning
 - Deep Learning
 
-projects:
-- <a href="https://synbioks.github.io/">SBKS</a>
-- <a href="/author/sbol-canvas/">SBOLCanvas</a>
-
 
 department:
 - Computer Science & Engineering
@@ -71,12 +67,12 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.in/citations?user=OR0yLJEAAAAJ
 - icon: user-graduate
   icon_pack: fas
-  link: https://www.colorado.edu/ecee/chris-myers
+  link: https://scholar.google.co.in/citations?user=OR0yLJEAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/chandu8542
@@ -85,10 +81,10 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0002-8762-8444
+  link: https://orcid.org/0000-0003-3519-600X
 - icon: university-logo
   icon_pack: Custom_University
-  link: https://www.colorado.edu/ecee
+  link: http://cse.iiti.ac.in/
 # - icon: university
 #   icon_pack: fas
 #   link: https://www.colorado.edu/ecee
@@ -119,7 +115,8 @@ email: ""
 user_groups:
 - Researchers
 - Principal Investigator
-
+#projects:
+#- <a href="/author/ibiosim/">iBioSim</a>
 
 # #any user groups to display on the page
 # display_groups:
