@@ -38,11 +38,11 @@
   weight = 2
   parent = "Publications"
 
-  [[main]]
-  name = "Tools"
-  url = "/tools"
-  weight = 60
-  identifier = "tools-id"
+ # [[main]]
+ # name = "Tools"
+ # url = "/tools"
+ # weight = 60
+ # identifier = "tools-id"
 
 [[main]]
   name = "Teaching"

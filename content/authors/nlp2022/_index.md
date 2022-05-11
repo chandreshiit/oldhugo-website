@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Asynchronous Circuit Design
+title: Natural Language Processing
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 1000
 
 # Username (this should match the folder name)
 authors:
-- teach-async
+- nlp2022
 
 # Is this the primary user of the site?
 superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: Canvas Course
-  url: "https://utah.instructure.com/courses/476851"
+- name: #({{< relref "/teaching/NLP-2022" >}})  # {{< cite page="/teaching/NLP-2022" view="1" >}}
+ # url: "https://utah.instructure.com/courses/476851"
 #- name: Formal Verification of Cyber-Physical Systems
 #  url: ""
 #- name: Asynchronous Circuit Design and Verification
@@ -44,8 +44,8 @@ social:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ #  icon_pack: ai
+ #  link: files/james_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -55,6 +55,11 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Teaching
+#{{% staticref "/james_resume.pdf" "newtab" %}}Download **my** CV{{% /staticref %}}
+#{{< cite page="/teaching/NLP-2022" view="1" >}}
 ---
 
-In recent years, there has been a resurgence of interest in the design of asynchronous circuits due to their ability to eliminate clock skew problems, achieve average case performance, adapt to environmental and processing variations, provide component modularity, and lower system power requirements. There is, however, a widely held belief that asynchronous design is difficult and leads to inefficient and unreliable designs. The goal of this course is to dispel this belief by introducing a systematic approach to the design of asynchronous VLSI systems from a high-level specification to an efficient and reliable circuit implementation. This course will include both hands-on experience with existing CAD tools as well as learn the algorithms within them. Topics will include specification, synthesis, optimization with timing information, performance analysis, and verification.
+This course teaches fundamentals of NLP.      [course webpage]({{< relref "/teaching/NLP-2022" >}}) 
+
+
+
